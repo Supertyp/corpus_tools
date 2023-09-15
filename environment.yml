@@ -13,3 +13,5 @@ dependencies:
   - pyarrow==8.0.0
   - matplotlib
   - pip
+  - jupyter_contrib_nbextensions
+  - fileupload
